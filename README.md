@@ -1,8 +1,6 @@
 # RESTful_Routing
 RESTful_Routing with Express.js in Node.js
 
-# RESTful Routing
-
 ## Introduction
 * Define REST and explain WHY it matters
 * List all 7 RESTful routes
